@@ -12,6 +12,7 @@ namespace NewConsoleApp_28March2022_GitHub
         {
             Console.WriteLine("New line added");
             Console.WriteLine("New line added from GitHub website");
+            Console.WriteLine("New line added from Forked Repository");
         }
     }
 }
