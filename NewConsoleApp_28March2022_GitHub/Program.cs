@@ -11,6 +11,7 @@ namespace NewConsoleApp_28March2022_GitHub
         static void Main(string[] args)
         {
             Console.WriteLine("New line added");
+            Console.WriteLine("New line added from GitHub website");
         }
     }
 }
